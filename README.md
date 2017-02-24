@@ -31,11 +31,13 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
   Descreva aqui os requisitos do sistema em formato de histórias de usuário
 
 Product Backlog
-| ID | Descrição| Prioridade | Pontos|
-|-------|-------|-------|-------|
+
+| ID | Descrição | Prioridade | Pontos |
+| --- | --- | --- | --- |
 | 001 | COMO/SENDO <QUEM>, EU QUERO/GOSTARIA/DEVO/POSSO <O QUE>, PARA QUE/DE/PARA <PORQUE/RESULTADO>. | 100 | 2 |
 | 002 | COMO um usuário não administrativo DEVO modificar meus próprios horários, mas não os horários de outros usuários PARA QUE não seja necessário abrir um chamado sempre que minhas atividades mudarem. | 99 | 3 |
 
+ 
 ###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
