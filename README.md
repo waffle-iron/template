@@ -27,9 +27,10 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 ###3	MINI-MUNDO<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
-###3.1	HISTÓRIAS DE USUÁRIOO<br>
+###3.1	HISTÓRIAS DE USUÁRIO<br>
   Descreva aqui os requisitos do sistema em formato de histórias de usuário
 
+Product Backlog
 | ID | Descrição| Prioridade | Pontos|
 | --- | --- | --- | --- |
 | 001 | COMO/SENDO <QUEM>, EU QUERO/GOSTARIA/DEVO/POSSO <O QUE>, PARA QUE/DE/PARA <PORQUE/RESULTADO>. | 100 | 2 |
@@ -48,6 +49,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/discipbd2/topicos-trabalho/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
     
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de Projeto)
+    aquicionar aqui um exemplo de diagrama de classe.
+    
 
 ####5.3 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
@@ -56,6 +59,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
+
+#####5.2 PADRÔES DE PROJETO UTILIZADOS NO TRABALHO 
+
+No digrama abaixo é destacado o padrão de projeto método fábrica que foi utilizado para melhorar a coesão e diminiuir o acoplamento entre as clases do sistema. O pode-se notar a classe FabricaDeFormatos cria os objetos FormatoPng, FormatoJpeg e FormatoGif tirando a dependencia entre a classes Main e essas classes. Vale ressaltar que o padrão utiliza um Interface Formato para diminiuir o acoplamento entre as classes. 
+
+![Alt text](https://github.com/felipefo/poo2/blob/master/Padroes_de_Projeto/Cria%C3%A7%C3%A3o/metodo_fabrica/ImagemMetodoFabrica/padrao_metodo_fabrica_conversao_imagem.png)
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     [objeto]: [descrição do objeto]
