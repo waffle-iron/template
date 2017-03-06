@@ -37,13 +37,19 @@ Product Backlog
 | 001 | COMO/SENDO <QUEM>, EU QUERO/GOSTARIA/DEVO/POSSO <O QUE>, PARA QUE/DE/PARA <PORQUE/RESULTADO>. | 100 | 2 |
 | 002 | COMO um usuário não administrativo DEVO modificar meus próprios horários, mas não os horários de outros usuários PARA QUE não seja necessário abrir um chamado sempre que minhas atividades mudarem. | 99 | 3 |
 
+###4.1	RASCUNHOS E TECNOLOGIA<BR>
  
-###4	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+####4.1	RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd2/topicos-trabalho/blob/master/balsamiq.png?raw=true "Title")
+
+
+####4.2	Descrição da Tecnologia utilizada<br>
+
+ Para o desenvolvimento do projeto foram utilizadas as seguintes ferramentas e frameworks.....
 
 
 ###5	MODELO CONCEITUAL<br>
