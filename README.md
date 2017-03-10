@@ -152,7 +152,7 @@ OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da 
 ####3.5.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
     Data de Entrega: (Data a ser definida)
 <br>
-####3.5.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS DA VIEW<br>
+####3.5.3	SELECT DAS VISÕES COM PRIMEIROS 10 REGISTROS<br>
         a) Descrição da view sobre que grupos de usuários (operacional/estratégico) <br>
         e necessidade ela contempla.
         b) Descrição das permissões de acesso e usuários correlacionados (após definição <br>
