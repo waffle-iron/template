@@ -133,9 +133,9 @@ O padrão foi utilizado para resolver o problema de .....
 ###3.4	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####3.4.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a:
+        Informar/referenciar todas as fontes usadas para:
         a) obtenção dos dados
-        b) obtenção de códigos reutilizados
+        b) obtenção de códigos reutilizados (caso tenha feito uso destes)
         c) fontes de estudo para desenvolvimento do projeto
         
 ####3.4.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS (ARQUIVO ÚNICO COM):
@@ -147,7 +147,7 @@ O padrão foi utilizado para resolver o problema de .....
 ####3.5.1	GERACAO DE DADOS (MÍNIMO DE 1,5 MILHÃO DE REGISTROS PARA PRINCIPAL RELAÇAO)<br>
     Data de Entrega: (Data a ser definida)
 <br>
-OBS: Incluir para os tópicos 9.2 e 9.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+OBS: Incluir para os tópicos 3.5.2 e 3.5.3 as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
 ####3.5.2	SELECT DAS TABELAS COM PRIMEIROS 10 REGISTROS INSERIDOS<br> 
     Data de Entrega: (Data a ser definida)
