@@ -1,15 +1,12 @@
-# TRABALHO INTEGRADO: Título do trabalho
+# TRABALHO INTEGRADO: Viagem Estelear
 
 Trabalho desenvolvido durante as disciplinas de:
-- Banco de Dados 2, 
-- Engenharia de Software, 
 - Programação Orientada a Objetos 2,
 - Projeto de Sistemas
 
 
 **INTEGRANTES DO GRUPO:** 
-- Nome integrante 1
-- Nome integrante 2<br>
+- Nome Paulo Vianna <br>
 
         
 #Sumário
