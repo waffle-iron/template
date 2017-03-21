@@ -1,4 +1,4 @@
-# TRABALHO INTEGRADO: Viagem Estelear
+# TRABALHO INTEGRADO: Viagem Estelar
 
 Trabalho desenvolvido durante as disciplinas de:
 - Programação Orientada a Objetos 2,
