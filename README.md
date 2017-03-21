@@ -18,15 +18,19 @@ Trabalho desenvolvido durante as disciplinas de:
 #Gerência de Requisitos
 
 ##1	Motivação e Propósito do Sistema 
+
 escrever os motivos, necessidades e benefícios do projeto.
 
 ##2	Personas
+
 descrever os personas de tal forma que descreva as necessidades do usuário pelo sistema.
 
 ##3	Minimundo 
+
 descrição breve sobre o sistema 
 
 ##4	Requisitos de Usuários
+
 ###4.1	Requisitos Funcionais (Histórias de Usuário)
 
 | ID | Descrição | Prioridade | Pontos |
