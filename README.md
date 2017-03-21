@@ -27,6 +27,7 @@ descrever os personas de tal forma que descreva as necessidades do usuário pelo
 descrição breve sobre o sistema 
 
 ##4	Requisitos de Usuários
+
 ###4.1	Requisitos Funcionais (Histórias de Usuário)
 
 | ID | Descrição | Prioridade | Pontos |
@@ -35,12 +36,14 @@ descrição breve sobre o sistema
 | RF02 | EU, COMO cliente, POSSO acessar o acerto da locadora PARA QUE consiga ver os filmes disponíveis antes de sair de casa. | Should | 3 |
 
 ###4.2	Requisitos Não Funcionais
+
 | ID | Descrição | Prioridade | Categoria | Escopo |
 | --- | --- | --- | --- | --- |
 | RNF01 | A entrada de dados de efetuar locação pelo atendente deverá ser realizada em no máximo 30 segundos | Must | 2 | Facilidade de Operação | Funcionalidade |
 | RNF02 | O tempo de resposta de efetuar locação dever ser de no máximo 2 segundos a partir da entrada correta de dados | Should | 3 | Eficincia de Tempo | Funcionalidade |
 
 ###4.3	Regras de Negócio
+
 | ID | Descrição | Prioridade | 
 | --- | --- | --- |
 | RN01 | Uma reserva expira quando passadas mais do que 24h de sua comunicação para o cliente. | Must |
@@ -48,9 +51,12 @@ descrição breve sobre o sistema
 
 
 #Desenvolvimento do Sistema
+
 ##1.    Análise de Sistemas:
+
 ###1.1  Subsistemas
 inserir diagrama dos subsistemas UML
+
 ###1.2  Modelagem de Casos de uso 
 inserir diagramas dos Casos de Uso (UML) e descrever brevemente.
 
