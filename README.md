@@ -35,7 +35,8 @@ descrição breve sobre o sistema
 | RF02 | EU, COMO cliente, POSSO acessar o acerto da locadora PARA QUE consiga ver os filmes disponíveis antes de sair de casa. | Should | 3 |
 
 ###4.2	Requisitos Não Funcionais
-| ID | Descrição | Prioridade | Categoria | Escopo |
+
+| ID | Descrição | Prioridade | Categoria | Escopo | Escopo |
 | --- | --- | --- | --- | --- |--- |
 | RNF01 | A entrada de dados de efetuar locação pelo atendente deverá ser realizada em no máximo 30 segundos | Must | 2 | Facilidade de Operação | Funcionalidade |
 | RNF02 | O tempo de resposta de efetuar locação dever ser de no máximo 2 segundos a partir da entrada correta de dados | Should | 3 | Eficincia de Tempo | Funcionalidade |Funcionalidade |
