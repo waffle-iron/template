@@ -9,46 +9,43 @@ Trabalho desenvolvido durante as disciplinas de:
 - Nome Paulo Vianna <br>
 
         
-#Sumário
+# Sumário
 
 
 #Gerência de Requisitos
 
-##1	Motivação e Propósito do Sistema 
+## 1	Motivação e Propósito do Sistema 
 
-escrever os motivos, necessidades e benefícios do projeto.
+O projeto Viagem Estelar surgiu a partir da necessidade de se construir um jogo não só com características de um shooter, mas também de estimular o raciocínio para montar quebra cabeças durante a execução do jogo.
 
-##2	Personas
+## 2	Personas
 
-descrever os personas de tal forma que descreva as necessidades do usuário pelo sistema.
+Os usuários deste sistema de jogo prezam prezam pela ação e interação constante que estimule a adrenalina.
 
-##3	Minimundo 
+## 3	Minimundo 
 
-descrição breve sobre o sistema 
+Viagem Estelar se trata de um jogo de tiro no estilo nave (shooter) que permite ao usuário percorrer por um trajeo em um ambiente espacial onde outros inimigos poderão ser abatidos para acumular pontos para abrir caminho durante o jogo e ao mesmo tempo montar quebra cabeças.
 
-##4	Requisitos de Usuários
+## 4	Requisitos de Usuários
 
-###4.1	Requisitos Funcionais (Histórias de Usuário)
+### 4.1	Requisitos Funcionais (Histórias de Usuário)
 
 | ID | Descrição | Prioridade | Pontos |
 | --- | --- | --- | --- |
-| RF01 | EU, COMO  **QUEM**, QUERO/GOSTARIA/DEVO/POSSO **O QUE**, PARA QUE/DE/PARA **PORQUE/RESULTADO**. | Must | 2 |
-| RF02 | EU, COMO cliente, POSSO acessar o acerto da locadora PARA QUE consiga ver os filmes disponíveis antes de sair de casa. | Should | 3 |
+| RF01 | O usuário terá uma tela de menu inicial em que poderá escolher o nível de díficuldade ou iniciar o jogo. | Essencial | 2 |
+| RF02 | Ao escolher o modo para iniciar o jogo o usuário iniciará a partida do jogo. | Essencial | 3 |
 
-###4.2	Requisitos Não Funcionais
+### 4.2	Requisitos Não Funcionais
 
 | ID | Descrição | Prioridade | Categoria | Escopo |
 | --- | --- | --- | --- | --- |
-| RNF01 | A entrada de dados de efetuar locação pelo atendente deverá ser realizada em no máximo 30 segundos | Must | 2 | Facilidade de Operação |
-| RNF02 | O tempo de resposta de efetuar locação dever ser de no máximo 2 segundos a partir da entrada correta de dados | Should | 3 | Eficincia de Tempo | Funcionalidade |
+| RNF01 | Ao escolher o modo para iniciar o jogo o usuário deverá aguardar no máximo 5 segundos até que o jogo se inicie  | Desejável | 3 | Eficiência de Tempo | RF03 | 
 
-###4.3	Regras de Negócio
+### 4.3	Regras de Negócio
 
 | ID | Descrição | Prioridade | 
 | --- | --- | --- |
-| RN01 | Uma reserva expira quando passadas mais do que 24h de sua comunicação para o cliente. | Must |
-| RN02 | Clientes em atraso não podem efetuar nem locações nem reservas. | Should |
-
+| RN01 | O tamanho da cadeia de caracteres do nome do usuário é de no máximo 15. | Essencial |
 
 #Desenvolvimento do Sistema
 ##1.    Análise de Sistemas:
