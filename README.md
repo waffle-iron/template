@@ -1,4 +1,4 @@
-# TRABALHO INTEGRADO: Viagem Estelar
+# TRABALHO INTEGRADO: Viagem Estelar [![Stories in Ready](https://badge.waffle.io/phoenixproject/template.svg?label=ready&title=Ready)](https://waffle.io/phoenixproject/template)
 
 Trabalho desenvolvido durante as disciplinas de:
 - Programação Orientada a Objetos 2,
