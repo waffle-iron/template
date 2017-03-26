@@ -1,5 +1,2 @@
-language: php
-php:
-  - 7.0  
-  - hhvm
-script: phpunit Test.php
+language: csharp
+solution: ViagemEstelar.sln
