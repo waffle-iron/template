@@ -1,5 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/phoenixproject/template.png?label=ready&title=Ready)](https://waffle.io/phoenixproject/template?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/phoenixproject/template.png?label=ready&title=Ready)](https://waffle.io/phoenixproject/template?utm_source=badge)
+[![Stories in Ready](https://badge.waffle.io/phoenixproject/template.png?label=ready&title=Ready)](https://waffle.io/phoenixproject/template?utm_source=badge)
 # TRABALHO INTEGRADO: Viagem Estelar [![Stories in Ready](https://badge.waffle.io/phoenixproject/template.png?label=ready&title=Ready)](http://waffle.io/phoenixproject/template)
 
 Trabalho desenvolvido durante as disciplinas de:
